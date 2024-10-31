@@ -22,7 +22,7 @@ Reflection in C# is a powerful technique that lets code inspect types, create in
 - **Detailed explanations** for each example, covering key concepts and usage
 - **Common use cases** where Reflection is especially useful
 
-For more detailed insights, check out my [full LinkedIn post](#) where I cover best practices and additional tips!
+For more detailed insights, check out my [full LinkedIn post](https://www.linkedin.com/posts/cassiocosta_csharp-reflection-programming-activity-7255291776742121474-j7n8?utm_source=share&utm_medium=member_desktop) where I cover best practices and additional tips!
 
 ---
 
@@ -69,6 +69,6 @@ Additional resources and documentation can be found in the `Resources` folder:
 
 ## Learn More
 
-For a full explanation of Reflection concepts and to learn best practices, [check out my LinkedIn post](#)! This post provides insights on when and how to use Reflection effectively in C# applications.
+For a full explanation of Reflection concepts and to learn best practices, [check out my LinkedIn post](https://www.linkedin.com/posts/cassiocosta_csharp-reflection-programming-activity-7255291776742121474-j7n8?utm_source=share&utm_medium=member_desktop)! This post provides insights on when and how to use Reflection effectively in C# applications.
 
 Enjoy exploring Reflection in C#, and happy coding!

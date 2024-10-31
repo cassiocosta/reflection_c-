@@ -28,35 +28,35 @@ For more detailed insights, check out my [full LinkedIn post](#) where I cover b
 
 ## Examples
 
-This repository contains a series of practical examples organized by topic. Each example includes a README with code explanations and guidance for running the example.
+This repository contains a series of practical examples organized by topic. Each example includes a readme with code explanations and guidance for running the example.
 
 ### 1. Listing Properties and Methods of a Class
 
 **Folder:** `Examples/ListPropertiesAndMethods/`  
 **Description:** Demonstrates how to use Reflection to list all properties and methods of a specified class. This example uses a `Car` class and displays each property and method name.
 
-[Go to Example](examples/ListPropertiesAndMethods/README.md)
+[Go to Example](examples/ListPropertiesAndMethods/readme.md)
 
 ### 2. Dynamic Object Creation
 
 **Folder:** `Examples/DynamicObjectCreation/`  
 **Description:** Shows how to dynamically create an instance of a class using its name as a string. In this example, we create a `Car` object, set its properties, and call its methods at runtime.
 
-[Go to Example](examples/DynamicObjectCreation/README.md)
+[Go to Example](examples/DynamicObjectCreation/readme.md)
 
 ### 3. Invoking Methods Dynamically
 
 **Folder:** `Examples/InvokeMethodsDynamically/`  
 **Description:** Illustrates how to invoke methods on an object without knowing the method name until runtime. This example shows how to invoke the `StartEngine` method on a `Car` object.
 
-[Go to Example](examples/InvokeMethodsDynamically/README.md)
+[Go to Example](examples/InvokeMethodsDynamically/readme.md)
 
 ### 4. Common Use Cases
 
 **Folder:** `Examples/UseCases/`  
 **Description:** Provides examples of practical applications of Reflection, such as mapping classes to databases, dependency injection, and implementing plugin systems.
 
-[Go to Example](examples/UseCases/README.md)
+[Go to Example](examples/UseCases/readme.md)
 
 ---
 

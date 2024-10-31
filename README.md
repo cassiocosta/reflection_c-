@@ -35,28 +35,28 @@ This repository contains a series of practical examples organized by topic. Each
 **Folder:** `Examples/ListPropertiesAndMethods/`  
 **Description:** Demonstrates how to use Reflection to list all properties and methods of a specified class. This example uses a `Car` class and displays each property and method name.
 
-[Go to Example](Examples/ListPropertiesAndMethods/README.md)
+[Go to Example](examples/ListPropertiesAndMethods/README.md)
 
 ### 2. Dynamic Object Creation
 
 **Folder:** `Examples/DynamicObjectCreation/`  
 **Description:** Shows how to dynamically create an instance of a class using its name as a string. In this example, we create a `Car` object, set its properties, and call its methods at runtime.
 
-[Go to Example](Examples/DynamicObjectCreation/README.md)
+[Go to Example](examples/DynamicObjectCreation/README.md)
 
 ### 3. Invoking Methods Dynamically
 
 **Folder:** `Examples/InvokeMethodsDynamically/`  
 **Description:** Illustrates how to invoke methods on an object without knowing the method name until runtime. This example shows how to invoke the `StartEngine` method on a `Car` object.
 
-[Go to Example](Examples/InvokeMethodsDynamically/README.md)
+[Go to Example](examples/InvokeMethodsDynamically/README.md)
 
 ### 4. Common Use Cases
 
 **Folder:** `Examples/UseCases/`  
 **Description:** Provides examples of practical applications of Reflection, such as mapping classes to databases, dependency injection, and implementing plugin systems.
 
-[Go to Example](Examples/UseCases/README.md)
+[Go to Example](examples/UseCases/README.md)
 
 ---
 
